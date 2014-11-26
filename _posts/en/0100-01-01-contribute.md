@@ -13,4 +13,4 @@ published: true
 ---
 
 This guide is created and maintained by the 
-TeachOSM community. You can help us improve this guide by simply sending your feedback or by contributing directly to it via [Github](http://github.com/hotosm/learnosm).
+Learn Community Data Collection community. You can help us improve this guide by simply sending your feedback or by contributing directly to it via [Github](http://github.com/hotosm/learnosm).
